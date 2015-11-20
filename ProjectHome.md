@@ -1,0 +1,1 @@
+This software converts anf equations to cnf
